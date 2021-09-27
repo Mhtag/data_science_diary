@@ -1,4 +1,4 @@
-kagle course - Scaling and normalization
+1.]  kagle course - Scaling and normalization
 link - https://www.kaggle.com/alexisbcook/scaling-and-normalization
 
 Scaling¶
@@ -29,3 +29,10 @@ distribution is also known as the Gaussian distribution.
 In general, you'll normalize your data if you're going to be using a machine learning or statistics technique that assumes your data 
 is normally distributed. Some examples of these include linear discriminant analysis (LDA) and Gaussian naive Bayes. 
 (Pro tip: any method with "Gaussian" in the name probably assumes normality.)
+
+2) kaggle course - parsing dates
+https://www.kaggle.com/alexisbcook/parsing-dates
+
+
+
+
